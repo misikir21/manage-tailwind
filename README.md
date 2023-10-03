@@ -15,6 +15,7 @@ This website is entirely built with tailwind css for educational purposes the we
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
+  - 🚀 Live Demo
 - [👥 Authors](#authors)
 
 - [🔭 Future Features](#future-features)
@@ -90,6 +91,8 @@ Run this command:
  cd my-folder
  npm install
 ```
+🚀 Live Demo
+https://misikir21.github.io/manage-tailwind/
 
 ### Usage
 
